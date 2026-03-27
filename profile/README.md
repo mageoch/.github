@@ -44,6 +44,9 @@ AI-assisted PCB design — a Model Context Protocol server that gives AI assista
 ### [LCSC-MCP-Server](https://github.com/mageoch/LCSC-MCP-Server)
 Instant access to 2.5M+ JLCPCB components from your AI assistant — parametric search, live pricing, stock data, alternative suggestions, and KiCAD file downloads. The missing link in AI-assisted PCB workflows.
 
+### [SilicAI](https://github.com/mageoch/silicai)
+Structured electronic component descriptions for AI-assisted circuit design. A YAML schema that captures pin directions, power rails, decoupling requirements, and external components — giving AI tools the structured context they need to generate correct, production-ready schematics. Includes a validator, a KiCAD schematic generator, and an MCP server for Claude Code integration.
+
 ---
 
 ## Join us
