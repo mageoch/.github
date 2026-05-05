@@ -41,8 +41,8 @@ We build tools we wish existed. Here's what we've released so far:
 ### [KiCAD-MCP-Server](https://github.com/mageoch/KiCAD-MCP-Server)
 AI-assisted PCB design — a Model Context Protocol server that gives AI assistants full control over KiCAD. 64 tools covering board layout, routing, schematics, DRC, and exports. Supports both the file-based `pcbnew` API and real-time sync via the KiCAD 9.0 IPC API.
 
-### [LCSC-MCP-Server](https://github.com/mageoch/LCSC-MCP-Server)
-Instant access to 2.5M+ JLCPCB components from your AI assistant — parametric search, live pricing, stock data, alternative suggestions, and KiCAD file downloads. The missing link in AI-assisted PCB workflows.
+### [JLCPCB-MCP-Server](https://github.com/mageoch/JLCPCB-MCP-Server)
+Instant access to the JLCPCB assembly library (Basic + Extended) from your AI assistant — parametric search, live pricing, stock data, alternative suggestions, and KiCAD file downloads. The missing link in AI-assisted PCB workflows.
 
 ### [SilicAI](https://github.com/mageoch/silicai)
 Structured electronic component descriptions for AI-assisted circuit design. A YAML schema that captures pin directions, power rails, decoupling requirements, and external components — giving AI tools the structured context they need to generate correct, production-ready schematics. Includes a validator, a KiCAD schematic generator, and an MCP server for Claude Code integration.
